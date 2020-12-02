@@ -140,5 +140,13 @@
             "Status": "OK",
             "ConfigurationStatus": "OK"
          }
+      ],
+      whitelist: [
+            { "address_type": "source_id", "address_value": 0, "install_code": 1 }, 
+            { "address_type": "source_id", "address_value": 1, "install_code": 1 }, 
+            { "address_type": "source_id", "address_value": 2, "install_code": 1 }, 
+            { "address_type": "source_id", "address_value": 3, "install_code": 1 }, 
+            { "address_type": "source_id", "address_value": 4, "install_code": 1 }, 
+            { "address_type": "source_id", "address_value": 5, "install_code": 1 }
       ]
 }
