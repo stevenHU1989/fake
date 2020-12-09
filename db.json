@@ -226,11 +226,11 @@
                 },
                 {
                     "area_name": "12",
-                    "area_state": "normal"
+                    "area_state": "critical"
                 },
                 {
                     "area_name": "13",
-                    "area_state": "normal"
+                    "area_state": "warning"
                 },
                 {
                     "area_name": "14",
