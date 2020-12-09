@@ -180,31 +180,61 @@
         }
       ],
      "areastate": [
-            {
-                "1": "normal",
-                "2": "normal",
-                "3": "toggle",
-                "4": "normal",
-                "5": "normal",
-                "6": "normal",
-                "7": "normal",
-                "8": "normal",
-                "9": "normal",
-                "10": "normal",
-                "11": "normal",
-                "12": "normal",
-                "13": "normal",
-                "14": "normal",
-                "15": "normal",
-                "16": "normal",
-                "17": "warning",
-                "18": "normal",
-                "19": "normal",
-                "20": "normal",
-                "21": "normal",
-                "22": "normal",
-                "23": "normal",
-                "24": "normal"
-            }
-      ]
+                {
+                    "area_name": "1",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "2",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "3",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "4",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "5",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "6",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "7",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "8",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "9",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "10",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "11",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "12",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "13",
+                    "area_state": "normal"
+                },
+                {
+                    "area_name": "14",
+                    "area_state": "normal"
+                },
+            ]
 }
